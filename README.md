@@ -4,6 +4,10 @@
 _This project focuses on testing multiple options for visualising spatial information_
 <br>
 
+## Data preparation
+
+<br>
+
 ### Finding the right base map data
 
 ### Spatial filetypes 
@@ -13,6 +17,9 @@ _This project focuses on testing multiple options for visualising spatial inform
 (from shapefile to data.frame)
 
 ### Data manipulation / cleaning
+
+<br>
+<br>
 
 ## Visualisation
 
