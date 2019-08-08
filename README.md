@@ -1,7 +1,9 @@
 # Visualising spatial data with R
 
 <br>
+
 _This project focuses on testing multiple options for visualising spatial information_
+
 <br>
 
 ## Data preparation
