@@ -6,4 +6,4 @@ _This project focuses on testing multiple options for visualising spatial inform
 
 <br>
 
-- testing map coordinates in ggplot (coord_map)
+- testing map projections in ggplot (coord_map)
